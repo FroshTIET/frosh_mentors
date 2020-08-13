@@ -1,0 +1,482 @@
+.col-lg-4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body{
+    /* padding: 20px;     */
+    /* height: 100vh;
+    width: 100vw; */
+    background-size: 200px;
+    background: #141414;
+}
+
+html, body{
+    overflow-x: hidden;
+}
+*{
+    box-sizing: border-box;
+}
+
+.card{  
+    height: 300px;
+    width: 300px;
+    border: 0;
+    font-family: Roboto;
+    margin-bottom: 20px;
+    border-radius: 18px;
+}
+
+.card-9{
+    background: url('./assets/IMG_20200218_012234_353 - Arush Aggarwal.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-1{
+    background: url('./assets/IMG_20191122_143412_075 - Aaryan arora.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-2{
+    background: url('./assets/Yo - Aashima Kapoor.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-3{
+    background: url('./assets/TeamPic.png');
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-4{
+    background: url('./assets/57C8BF28-D0F5-4EFA-811E-D24E1421B834 - AKSHARA KHURANA.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-5{
+    background: url('./assets/IMG_20200811_085017 - anshkirat singh.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-6{
+    background: url('./assets/20200810_175014 - Arad Ü.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-7{
+    background: url('./assets/A Banerjee.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-8{
+    background: url('./assets/05-11-03.39.26 - Arsh Vohra.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-10{
+    background: url('./assets/avnoor.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-11{
+    background: url('./assets/IMG_20200229_235207 - Deepansh Arora.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card-12{
+    background: url('./assets/Deepanshi Garg.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-27{
+    background: url('./assets/mihir.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-13{
+    background: url('./assets/IMG_20200810_010450 - dipanshu goyal.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-14{
+    background: url('./assets/IMG_20200810_115740 - DIVYA JAIN.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-15{
+    background: url('./assets/jungle2 - DIVYANSHU SHUKLA.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-16{
+    background: url('./assets/ESHNEET KAUR ARORA.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-17{
+    background: url('./assets/Gursangat Singh.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-18{
+    background: url('./assets/IMG_20200810_092012 - Gursimran Singh.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-19{
+    background: url('./assets/Harshita - Chiya Bansal.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-20{
+    background: url('./assets/Ishita Sheoran.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-21{
+    background: url('./assets/20200811_172532 - Kanishk Chawla.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-22{
+    background: url('./assets/IMG_20200810_193301 - Khushi Goel.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-23{
+    background: url('./assets/IMG-20191019-WA0070 - Khyati Suri.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-24{
+    background: url('./assets/F6E44D59-D7D2-4017-820D-45FA0EEDE91E - LEKHA REVANKAR.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-25{
+    background: url('./assets/IMG_20191112_122513 - Manvi Gumber.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card-26{
+    background: url('./assets/WhatsApp Image 2020-07-14 at 21.16.19 (2) - Meghna Rai.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-28{
+    background: url('./assets/Mini_FroshPic - Mini Bisaria.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-29{
+    background: url('./assets/Profile - Nimish Shangle.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-30{
+    background: url('./assets/A43901A2-F148-4CBE-9AE9-38E0D33785A3 - Nishchita Khera.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-31{
+    background: url('./assets/Screenshot_20200810_164422 - PARIKSHIT SINGH.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-32{
+    background: url('./assets/IMG_20200624_164521_494 - Parth Gilotra.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-33{
+    background: url('./assets/Prajwal sharma - Prajwal Vashisth.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-34{
+    background: url('./assets/IMG_20200810_224948-01 - Pranav Tushar.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-35{
+    background: url('./assets/IMG-20191223-WA0024 - Glitch x.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-36{
+    background: url('./assets/B16B7F10-615A-4A29-B729-C0B57AAA2C30 - Raghav Dhingra.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-37{
+    background: url('./assets/Ramya Srinivasan.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-41{
+    background: url('./assets/IMG_20200810_231431 - Rishabh Kumar.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-38{
+    background: url('./assets/IMG_9697-01 - Raunaq Jain.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-39{
+    background: url('./assets/Rishab - Rishab Aggarwal.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-40{
+    background: url('./assets/569072DE-BB04-49FA-83B2-DD89E30A88E8 - RISHAB JAIN.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-42{
+    background: url('./assets/Rishit Arora - Rishit Arora.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-43{
+    background: url('./assets/final (1) - Rohit Grover.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-44{
+    background: url('./assets/IMG-20200811-WA0041 - saloni asrani.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-45{
+    background: url('./assets/Sameer Singla.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-46{
+    background: url('./assets/709D2D33-DD79-46C8-8792-B42FD1F4AA54 - Sarthak Nagpal.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-47{
+    background: url('./assets/satnam tuteja.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-48{
+    background: url('./assets/Saurav Suman.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-49{
+    background: url('./assets/IMG20200811105738-01 - Sayantan Pradhan.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-50{
+    background: url('./assets/Shrey Sharma.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-51{
+    background: url('./assets/_2020042322282479_save - Shriyanshi Agarwal.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-52{
+    background: url('./assets/Siddhant Kadu.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-53{
+    background: url('./assets/IMG_20191228_163757 - Sukhmanpreet Kaur.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-54{
+    background: url('./assets/19095365_1368904749889481_6980873120287023778_o - Swarnim Shresth.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-55{
+    background: url('./assets/20200810_222805 - Tamanjit Singh.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-56{
+    background: url('./assets/IMG_8639 - Tanmay Khandelwal.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-57{
+    background: url('./assets/Vividh Mariya.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card-58{
+    background: url('./assets/yashika bansal.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card-59{
+    background: url('./assets/yogendra bhati.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+
+*{
+    color: #303030;
+}
+.card h1{
+    font-family: Roboto;
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 18px;
+    margin-bottom: 30px;
+}
+
+.card h1.sukhmanpreet{
+    font-size: 2.5rem;
+}
+
+
+.last-name{
+    margin-bottom: 40px;
+}
+.details{
+    padding-top: 120px;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+}
+
+.footer i{
+    font-size: 2rem;
+}
+
+.footer a{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+.card h4{
+    font-family: Roboto;
+    font-weight: 300;
+    font-size: 2rem;
+    margin: 0;
+}
+.overlay{
+    display: flex;
+    border: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba(100, 252, 242, 0.5);
+    padding: 20px;
+    opacity: 0;
+    transition: 0.4s;
+    border-radius: 18px;
+}
+
+
+.overlay:hover{
+    opacity: 100%;
+}
+
+a{
+    margin: 0;
+    padding: 0;
+}
+
+.row{
+    padding-bottom: 20px;
+}
+
+
+.theme{
+    color: rgba(100, 252, 242)
+}
+.mentors-title{
+    font-size: 7rem;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+}
+
+@media(max-width: 992px){
+    .card{
+        /* margin-bottom: 20px; */
+        margin: 20px auto;
+    }
+    .mentors-title{
+        font-size: 5rem;
+    }
+}
