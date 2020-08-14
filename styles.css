@@ -92,7 +92,7 @@ html, body{
 }
 .card-11{
     background: url('./assets/IMG_20200229_235207 - Deepansh Arora.jpg');
-    background-position: center;
+    background-position: ;
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -111,7 +111,7 @@ html, body{
 }
 .card-13{
     background: url('./assets/IMG_20200810_010450 - dipanshu goyal.jpg');
-    background-position: center;
+    background-position: ;
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -202,7 +202,7 @@ html, body{
 }
 .card-29{
     background: url('./assets/Profile - Nimish Shangle.jpeg');
-    background-position: center;
+    /* background-position: center; */
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -273,8 +273,8 @@ html, body{
     background-repeat: no-repeat;
 }
 .card-40{
-    background: url('./assets/569072DE-BB04-49FA-83B2-DD89E30A88E8 - RISHAB JAIN.jpeg');
-    background-position: center;
+    background: url('./assets/WhatsApp\ Image\ 2020-08-15\ at\ 12.46.48\ AM.jpeg');
+    /* background-position: center; */
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -315,7 +315,7 @@ html, body{
     background-repeat: no-repeat;
 }
 .card-48{
-    background: url('./assets/Saurav Suman.jpg');
+    background: url('./assets/00100sPORTRAIT_00100_BURST20200215175509685_COVER.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
