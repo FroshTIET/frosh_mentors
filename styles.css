@@ -16,6 +16,11 @@ body{
 
 html, body{
     overflow-x: hidden;
+
+     
+}
+html {
+    cursor: url('./assets/Asset.png'), auto;
 }
 *{
     box-sizing: border-box;
