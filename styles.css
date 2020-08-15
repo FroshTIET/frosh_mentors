@@ -19,6 +19,14 @@ html, body{
 
      
 }
+nav{
+    background: none;
+    position: absolute;
+    z-index: 10;
+  }
+  .navbar-brand img{
+    width: 150px;
+}
 html {
     cursor: url('./assets/Asset.png'), auto;
 }
