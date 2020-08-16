@@ -62,13 +62,13 @@ html {
     background-repeat: no-repeat;
 }
 .card-3{
-    background: url('./assets/TeamPic.png');
+    background: url('./assets/TeamPic.jpg');
     background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
 }
 .card-4{
-    background: url('./assets/57C8BF28-D0F5-4EFA-811E-D24E1421B834 - AKSHARA KHURANA.jpeg');
+    background: url('./assets/57C8BF28-D0F5-4EFA-811E-D24E1421B834 - AKSHARA KHURANA.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -280,7 +280,7 @@ html {
     background-repeat: no-repeat;
 }
 .card-39{
-    background: url('./assets/Rishab - Rishab Aggarwal.jpg');
+    background: url('./assets/Rishab - Rishab Aggarwal.jpeg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
